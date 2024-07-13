@@ -57,7 +57,7 @@
             compatible = "zmk,behavior-mod-morph";
             #binding-cells = <0>;
             bindings = <&de_ae_lower &de_ae_upper>;
-            mods = <MOD_LSFT|MOD_RSFT>;
+            mods = <(MOD_LSFT|MOD_RSFT)>;
         };
     };
     keymap {
