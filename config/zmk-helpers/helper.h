@@ -137,7 +137,7 @@
                 wait-ms = <0>; \
                 tap-ms = <0>; \
                 #binding-cells = <0>; \
-                bindings = <OS_UNICODE_LEAD &macro_tap unicode_bindings OS_UNICODE_TRAIL>; \
+                bindings = <OS_UNICODE_LEAD>, <&macro_tap unicode_bindings>, <OS_UNICODE_TRAIL>;\
             }; \
         }; \
     };
