@@ -39,14 +39,14 @@
             wait-ms = <0>;
             tap-ms = <0>;
             #binding-cells = <0>;
-            bindings = <OS_UNICODE_LEAD &macro_tap &kp N0 &kp N0 &kp E &kp N4 OS_UNICODE_TRAIL>;
+            bindings = <&macro_tap &kp N0 &kp N0 &kp E &kp N4>;
         };
         de_ae_upper: de_ae_upper {
             compatible = "zmk,behavior-macro";
             wait-ms = <0>;
             tap-ms = <0>;
             #binding-cells = <0>;
-            bindings = <OS_UNICODE_LEAD &macro_tap &kp N0 &kp N0 &kp C &kp N4 OS_UNICODE_TRAIL>;
+            bindings = <&macro_tap &kp N0 &kp N0 &kp C &kp N4 >;
         };
     };
     behaviors {
