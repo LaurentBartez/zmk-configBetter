@@ -149,7 +149,7 @@
                 compatible = "zmk,behavior-mod-morph"; \
                 #binding-cells = <0>; \
                 bindings = <uc_binding shifted_uc_binding>; \
-                mods = <MOD_LSFT|MOD_RSFT>; \
+                mods = <(MOD_LSFT|MOD_RSFT)>; \
             }; \
         }; \
     };
