@@ -40,7 +40,7 @@
             tap-ms = <0>;
             #binding-cells = <0>;
             bindings = <OS_UNICODE_LEAD>
-                     , <macro_tap &kp N0 &kp N0 &kp E &kp N4>
+                     , <&macro_tap &kp N0 &kp N0 &kp E &kp N4>
                      , <OS_UNICODE_TRAIL>
                      ;
         };
