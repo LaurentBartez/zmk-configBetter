@@ -65,7 +65,7 @@
 &trans    &kp F1    &kp F2    &kp F3    &kp F4    &kp F5              &kp F6   &kp F7   &kp F8   &kp F9    &kp F10   &kp F11
 &kp QMARK &kp GRAVE &kp SQT   &kp DQT   &kp TILDE &kp SLASH           &kp BSLH &kp LBKT &kp RBKT &kp PRCNT &trans &kp F12
 &kp HASH  &kp CARET &kp EQUAL &kp UNDER &kp DLLR  &kp STAR            &kp PIPE &kp LPAR &kp RPAR &kp COLON &kp SEMI  &trans 
-&trans    &kp EXCL &kp LT &kp GT &kp MINUS  &kp PLUS   &trans &trans  &kp AMPS  &kp LBKT &kp RBKT &kp DOT &kp AT  &trans
+&trans    &kp EXCL &kp LT &kp GT &kp MINUS  &kp PLUS   &trans &trans  &kp AMPS  &kp LBRC &kp RBRC &kp DOT &kp AT  &trans
                     &trans    &trans      &trans    &trans     &trans &trans  &trans    &trans   &trans          &trans
             >;
 
